@@ -1,12 +1,25 @@
-# React + Vite
+# 💻 Digital Invoicing Clone – React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **frontend clone** of the [Digital Invoicing](https://digital-invoicing-frontend.vercel.app/) website built using **React** and **Vite**. It includes a clean UI layout and animations, aiming to match the original website’s design as closely as possible.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**:  
+[https://digital-invoicing-clone-git-main-musaumer007s-projects.vercel.app/](https://digital-invoicing-clone-git-main-musaumer007s-projects.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ⚙️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React (with functional components)
+- ⚡ Vite (for fast dev/build)
+- 🎨 Tailwind CSS (via CDN)
+- 📁 Clean component structure
+- 💡 Animations and layout matched to original site
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/digital-invoicing-clone.git
+   cd digital-invoicing-clone
